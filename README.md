@@ -9,7 +9,7 @@ The main task of this project is to analyse the factors that leads to employee a
 ## Content
 The  data contained in the attached csv file is about past and current employees in the company. It has various data points on employees.
 
-##Models
+### Models
 To build two tree based models using:
 
 1. Random Forest
